@@ -1,0 +1,186 @@
+{
+  "person": {
+    "id": "person-001",
+    "name": "Masud Sani",
+    "title": "Final Year Computer Engineering Student",
+    "institution": "Ahmadu Bello University, Zaria",
+    "department": "Department of Computer Engineering",
+    "focus_area": "AI/ML, Computer Vision & Embedded Systems",
+    "email": "masudsani21@gmail.com",
+    "phone": "+234 707 889 2582",
+    "location": "Kaduna, Nigeria",
+    "linkedin": "https://ng.linkedin.com/in/masud-sani-94875034b",
+    "github": "https://github.com/engrmasudsani",
+    "photo": "assets/images/profile.jpg",
+    "cv_file": "assets/files/MasudSani_CV.pdf"
+  },
+  "skills": [
+    {
+      "id": "skl-001",
+      "category": "AI & Machine Learning",
+      "name": "Python for AI/ML",
+      "level": 78
+    },
+    {
+      "id": "skl-002",
+      "category": "AI & Machine Learning",
+      "name": "PyTorch",
+      "level": 65
+    },
+    {
+      "id": "skl-003",
+      "category": "AI & Machine Learning",
+      "name": "Computer Vision",
+      "level": 68
+    },
+    {
+      "id": "skl-004",
+      "category": "Embedded & Hardware",
+      "name": "Arduino / ESP32-CAM",
+      "level": 72
+    },
+    {
+      "id": "skl-005",
+      "category": "Embedded & Hardware",
+      "name": "Computer Maintenance & Troubleshooting",
+      "level": 88
+    },
+    {
+      "id": "skl-006",
+      "category": "Software",
+      "name": "C++",
+      "level": 65
+    },
+    {
+      "id": "skl-007",
+      "category": "Software",
+      "name": "JavaScript",
+      "level": 60
+    },
+    {
+      "id": "skl-008",
+      "category": "Systems",
+      "name": "Windows / Linux / macOS Administration",
+      "level": 82
+    },
+    {
+      "id": "skl-009",
+      "category": "Web",
+      "name": "HTML5 / CSS3",
+      "level": 80
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-001",
+      "name": "Python for Data Science",
+      "issuer": "IBM",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-001",
+      "role": "Intern",
+      "organisation": "Mahir Computers",
+      "period": "Apr 2018 – Present",
+      "highlights": [
+        "Upgraded hardware components, increasing processing speed by 25%.",
+        "Trained over 20 users on computer maintenance and AI application best practices.",
+        "Reduced troubleshooting time by 30% through proactive maintenance and optimised configurations."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj-001",
+      "title": "Facial Recognition Attendance System",
+      "date": "2025-11",
+      "category": "Computer Vision",
+      "description": "An attendance system that recognises student faces at the door and logs them automatically, so nobody's stuck chasing a paper sign-in sheet.",
+      "image_url": "assets/images/project-attendance-photo.jpg",
+      "stack": [
+        "Python",
+        "OpenCV",
+        "Facial Recognition"
+      ]
+    },
+    {
+      "id": "prj-002",
+      "title": "Bear Detection System (YOLO)",
+      "date": "2025-08",
+      "category": "AI / ML",
+      "description": "A YOLO-based detector trained to spot bears in image and video feeds, built and evaluated as a hands-on computer vision project.",
+      "image_url": "assets/images/project-bear-detection-photo.jpg",
+      "stack": [
+        "Python",
+        "YOLO",
+        "Computer Vision"
+      ]
+    },
+    {
+      "id": "prj-003",
+      "title": "Door Buzzer Alarm System",
+      "date": "2025-04",
+      "category": "Embedded Systems",
+      "description": "A microcontroller-driven door alarm that sounds a buzzer the moment someone tries the door without authorisation, built as a hands-on embedded systems project.",
+      "image_url": "assets/images/project-door-buzzer.svg",
+      "stack": [
+        "Arduino",
+        "Sensors",
+        "Embedded C"
+      ]
+    },
+    {
+      "id": "prj-004",
+      "title": "Static Site Data Pipeline",
+      "date": "2025-03",
+      "category": "Web",
+      "description": "The same no-JavaScript approach behind this portfolio itself: semantic HTML5 and CSS3, driven entirely by a JSON content model.",
+      "image_url": "assets/images/project-pipeline.svg",
+      "stack": [
+        "HTML5",
+        "CSS3",
+        "JSON"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-001",
+      "period": "Oct 2019 – Present",
+      "institution": "Ahmadu Bello University, Zaria",
+      "programme": "B.Eng. Computer Engineering",
+      "notes": "Final year; interests in AI/ML, computer vision, and embedded systems."
+    },
+    {
+      "id": "edu-002",
+      "period": "Graduated 2017",
+      "institution": "Hayatul Islam Secondary School, Kaduna",
+      "programme": "West African Senior School Certificate (WASSCE/WAEC-NECO)",
+      "notes": "Completed 2017."
+    }
+  ],
+  "hobbies": [
+    {
+      "id": "hob-001",
+      "name": "AI & Machine Learning Exploration",
+      "description": "Experimenting with computer vision and PyTorch projects outside of coursework."
+    },
+    {
+      "id": "hob-002",
+      "name": "Electronics Tinkering",
+      "description": "Building small circuits and microcontroller projects, including ESP32-CAM builds."
+    },
+    {
+      "id": "hob-003",
+      "name": "Computer Maintenance",
+      "description": "Helping friends and family diagnose and fix hardware/software issues."
+    },
+    {
+      "id": "hob-004",
+      "name": "Reading",
+      "description": "Technical blogs and articles on AI and emerging technology."
+    }
+  ]
+}

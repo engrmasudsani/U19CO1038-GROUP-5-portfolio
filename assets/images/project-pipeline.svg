@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="240" fill="#0E1B2C"/>
+<g stroke="#4FD1C5" stroke-width="1.4" fill="none" opacity="0.9">
+<rect x="40" y="50" width="80" height="50" stroke="#2E4A68"/>
+<rect x="170" y="50" width="80" height="50" stroke="#2E4A68"/>
+<rect x="300" y="50" width="60" height="50" stroke="#2E4A68"/>
+<path d="M120 75 h50 M250 75 h50"/>
+<rect x="40" y="140" width="320" height="50" stroke-dasharray="3 3" stroke="#C97A3D"/>
+</g>
+<text x="55" y="80" fill="#E8EDF2" font-family="monospace" font-size="9">HTML</text>
+<text x="185" y="80" fill="#E8EDF2" font-family="monospace" font-size="9">CSS</text>
+<text x="312" y="80" fill="#E8EDF2" font-family="monospace" font-size="9">JSON</text>
+<text x="30" y="225" fill="#93A8BC" font-family="monospace" font-size="10">FIG.03 - STATIC DATA PIPELINE</text>
+</svg>

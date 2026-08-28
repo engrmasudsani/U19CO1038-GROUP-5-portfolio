@@ -1,0 +1,45 @@
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="240" fill="#0E1B2C"/>
+<g stroke="#2E4A68" stroke-width="1.4" fill="none">
+<rect x="24" y="130" width="110" height="72" rx="3"/>
+<rect x="38" y="144" width="82" height="30" stroke="#233953"/>
+</g>
+<g fill="#2E4A68">
+<circle cx="40" cy="130" r="2"/><circle cx="52" cy="130" r="2"/><circle cx="64" cy="130" r="2"/>
+<circle cx="76" cy="130" r="2"/><circle cx="88" cy="130" r="2"/><circle cx="100" cy="130" r="2"/>
+</g>
+<text x="38" y="192" fill="#93A8BC" font-family="monospace" font-size="9">ARDUINO UNO</text>
+<g stroke="#2E4A68" stroke-width="1.2" fill="none">
+<rect x="168" y="70" width="130" height="100"/>
+<line x1="168" y1="90" x2="298" y2="90"/>
+<line x1="168" y1="150" x2="298" y2="150"/>
+</g>
+<g fill="#3A5570">
+<circle cx="180" cy="80" r="1.4"/><circle cx="194" cy="80" r="1.4"/><circle cx="208" cy="80" r="1.4"/><circle cx="222" cy="80" r="1.4"/><circle cx="236" cy="80" r="1.4"/><circle cx="250" cy="80" r="1.4"/><circle cx="264" cy="80" r="1.4"/><circle cx="278" cy="80" r="1.4"/>
+<circle cx="180" cy="160" r="1.4"/><circle cx="194" cy="160" r="1.4"/><circle cx="208" cy="160" r="1.4"/><circle cx="222" cy="160" r="1.4"/><circle cx="236" cy="160" r="1.4"/><circle cx="250" cy="160" r="1.4"/><circle cx="264" cy="160" r="1.4"/><circle cx="278" cy="160" r="1.4"/>
+</g>
+<text x="188" y="188" fill="#93A8BC" font-family="monospace" font-size="9">BREADBOARD</text>
+<g stroke="#C97A3D" stroke-width="1.4" fill="none">
+<circle cx="200" cy="42" r="13"/>
+<path d="M200 29 v-8 M200 55 v8 M187 42 h-8 M213 42 h8"/>
+</g>
+<text x="180" y="20" fill="#93A8BC" font-family="monospace" font-size="8">BUZZER</text>
+<g stroke="#4FD1C5" stroke-width="1.4" fill="none">
+<circle cx="252" cy="46" r="7"/>
+<path d="M245 40 l-6 -6 M259 40 l6 -6 M245 52 l-6 6 M259 52 l6 6" stroke-dasharray="2 2"/>
+</g>
+<path d="M266 46 l6 -3 v6 z M272 43 v6" stroke="#4FD1C5" stroke-width="1.2" fill="none"/>
+<text x="230" y="20" fill="#93A8BC" font-family="monospace" font-size="8">LED + R</text>
+<g stroke="#2E4A68" stroke-width="1.4" fill="none">
+<path d="M330 70 a20 20 0 0 1 40 0 z"/>
+<rect x="322" y="70" width="56" height="14"/>
+</g>
+<text x="330" y="102" fill="#93A8BC" font-family="monospace" font-size="8">PIR SENSOR</text>
+<g stroke="#4FD1C5" stroke-width="1.1" fill="none" opacity="0.85">
+<path d="M64 130 V110 H200 V55"/>
+<path d="M76 130 V116 H252 V53" stroke-dasharray="3 2"/>
+<path d="M88 130 V104 H350 V84" stroke-dasharray="3 2"/>
+<path d="M100 130 V150 H168" stroke="#C97A3D"/>
+</g>
+<text x="30" y="225" fill="#93A8BC" font-family="monospace" font-size="10">FIG.03 - DOOR BUZZER ALARM SYSTEM</text>
+</svg>
