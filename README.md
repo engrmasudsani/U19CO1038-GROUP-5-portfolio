@@ -2,7 +2,7 @@
 
 A personal portfolio site for Masud Sani, a final year Computer Engineering student at Ahmadu Bello University, Zaria, focused on AI/ML, Computer Vision and Embedded Systems.
 
-**Live site:** _add your GitHub Pages link here once deployed, https://engrmasudsani.github.io/U19CO1038-GROUP-5-portfolio/
+**Live site:**  https://engrmasudsani.github.io/U19CO1038-GROUP-5-portfolio/
 ## Pages
 
 - `index.html`: Home
